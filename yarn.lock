@@ -772,6 +772,11 @@ chownr@^1.0.1:
   resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.1.1.tgz#54726b8b8fff4df053c42187e801fb4412df1494"
   integrity sha512-j38EvO5+LHX84jlo6h4UzmOwi0UgW61WRyPtJz4qaadK5eY3BTS5TY/S1Stc3Uk2lIM6TPevAlULiEJwie860g==
 
+ci-env@^1.10.0:
+  version "1.10.0"
+  resolved "https://registry.yarnpkg.com/ci-env/-/ci-env-1.10.0.tgz#82486b2b4ef8ca972595e34ec5640b9ac217693f"
+  integrity sha512-kXGriGO7hW/uxDviPtUUehSG301RudEHUXNhAHeM5JM7iOSb6+tpXh+YqhcfxdCECvtfMNq0J7laOxAV3NsDng==
+
 ci-info@^1.5.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-1.6.0.tgz#2ca20dbb9ceb32d4524a683303313f0304b1e497"

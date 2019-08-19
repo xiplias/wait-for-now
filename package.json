@@ -24,7 +24,8 @@
     "bin/index.js"
   ],
   "dependencies": {
-    "@octokit/rest": "^15.16.1"
+    "@octokit/rest": "^15.16.1",
+    "ci-env": "^1.10.0"
   },
   "devDependencies": {
     "@types/got": "^9.2.0",
