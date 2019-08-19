@@ -6,6 +6,3 @@ coverage
 
 # Logs
 *-error.log
-
-# Build
-*.js
